@@ -1,0 +1,542 @@
+7 monks cafe:breve:6.10
+7 monks cafe:cortado:8.00
+7 monks cafe:costa rican:6.10
+7 monks cafe:guatemalan:0.50
+7 monks cafe:kona:2.70
+7 monks cafe:latte:5.70
+7 monks cafe:marocchino:4.10
+7 monks cafe:nicaraguan:3.30
+95 degrees:americano:9.40
+95 degrees:doppio:7.60
+95 degrees:ethiopian:10.30
+95 degrees:pocillo:4.20
+aroma coffee:bombon:6.30
+aroma coffee:breve:10.80
+aroma coffee:cappuccino:4.40
+aroma coffee:cubano:11.70
+aroma coffee:kona:0.50
+aroma coffee:latte:4.00
+aroma coffee:marocchino:3.60
+basin cafe:cubano:1.70
+basin cafe:frappuccino:8.30
+basin cafe:kona:5.30
+basin cafe:mocha:5.90
+basin cafe:ristretto:0.50
+basin cafe:touba:1.70
+basin cafe:touba:2.30
+basin cafe:touba:8.10
+basket & green:costa rican:1.80
+basket & green:galao:5.40
+basket & green:touba:4.70
+bean and gone:columbian:1.60
+bean and gone:espresso:3.30
+bean and gone:frappuccino:7.30
+bean and gone:irish:5.10
+bean and gone:latte:4.30
+bean and gone:latte:5.40
+bean and gone:melya:6.70
+beans and cream:espresso:2.80
+beans and cream:gommosa:4.20
+beans and cream:venezuelan:7.80
+bits and bites:folgers:9.70
+bits and bites:guillermo:4.00
+bits and bites:irish:2.90
+bits and bites:kona:2.50
+bits and bites:mazagran:7.90
+bits and bites:melya:2.20
+bits and bites:touba:5.70
+brekky cafe:au-lait:6.10
+brekky cafe:costa rican:1.00
+brekky cafe:galao:5.10
+brekky cafe:gommosa:2.00
+brekky cafe:mexican:1.20
+cafe 2.0:bombon:6.20
+cafe 2.0:folgers:8.10
+cafe 2.0:guatemalan:4.80
+cafe 2.0:kona:4.00
+cafe arabica:breve:4.30
+cafe arabica:columbian:4.70
+cafe arabica:galao:5.80
+cafe arabica:galao:6.30
+cafe arabica:macchiato:7.00
+cafe arabica:melya:7.10
+cafe arabica:shakerato:7.70
+cafe bellissimo:breve:2.10
+cafe bellissimo:costa rican:7.70
+cafe continental:viennese:6.60
+cafe culture:antoccino:5.80
+cafe culture:doppio:4.80
+cafe culture:gommosa:7.90
+cafe culture:irish:6.00
+cafe culture:mocha frappuccino:4.80
+cafe culture:nicaraguan:0.90
+cafe culture:pocillo:3.10
+cafe culture:touba:8.20
+cafe culture:zorro:2.80
+cafe italia:ristretto:1.40
+cafe java:columbian:7.40
+cafe java:decaffeinated:13.20
+cafe java:espresso:6.80
+cafe java:gommosa:9.20
+cafe java:instant:3.40
+cafe java:melya:1.60
+cafe java:pharisaer:9.30
+cafe java:ristretto:5.40
+cafe java:ristretto:8.50
+cafe latte:botz:7.60
+cafe latte:breve:5.10
+cafe latte:cappuccino:8.00
+cafe latte:iced:2.30
+cafe latte:irish:7.60
+cafe latte:latte:7.40
+cafe latte:peruvian:1.50
+cafe latte:pocillo:6.20
+cafe latte:venezuelan:6.80
+cafe mode:latte:4.10
+cafe mode:marocchino:8.20
+cafe mode:medici:5.20
+cafe mode:melya:9.60
+cafe mode:ristretto:3.60
+cafe mode:shakerato:3.60
+cafe mode:viennese:5.80
+cafe plus:au-lait:4.90
+cafe plus:botz:8.70
+cafe plus:cortado:7.10
+cafe plus:cortado:9.10
+cafe plus:decaffeinated:6.80
+cafe plus:kona:5.70
+cafe plus:mazagran:3.00
+cafe pronto:instant:5.50
+cafe thirteen:botz:6.40
+cafe thirteen:cortado:6.90
+cafe thirteen:guatemalan:6.20
+cafe thirteen:marocchino:1.00
+capital coffee:macchiato:3.80
+capital coffee:rudesheimer:3.30
+cinammon cafe:cappuccino:7.10
+cocoa coffee:americano:8.10
+cocoa coffee:breve:3.50
+cocoa coffee:carajillo:7.00
+cocoa coffee:costa rican:0.10
+cocoa coffee:costa rican:4.60
+cocoa coffee:venezuelan:5.60
+cocobean:galao:11.90
+cocobean:guatemalan:5.80
+cocobean:guillermo:1.30
+cocobean:viennese:5.60
+coffee 101:affogato:4.00
+coffee 101:breve:7.00
+coffee 101:frappuccino:5.80
+coffee 101:galao:7.80
+coffee 101:guillermo:7.40
+coffee 101:mocha:5.00
+coffee 101:peruvian:9.20
+coffee 101:rudesheimer:6.80
+coffee and cake:espresso:4.50
+coffee and cake:ethiopian:2.60
+coffee and cake:galao:3.80
+coffee and cake:guatemalan:6.50
+coffee break cafe:antoccino:12.90
+coffee break cafe:costa rican:8.60
+coffee break cafe:espresso:6.30
+coffee break cafe:mazagran:6.00
+coffee break cafe:mexican:5.90
+coffee break cafe:mocha:4.60
+coffee break cafe:nicaraguan:4.80
+coffee break cafe:touba:6.30
+coffee central:americano:6.10
+coffee central:botz:10.10
+coffee central:botz:4.80
+coffee central:breve:7.00
+coffee central:mocha:6.70
+coffee central:peruvian:6.40
+coffee central:zorro:5.10
+coffee crew:breve:1.30
+coffee crew:breve:8.20
+coffee crew:ethiopian:5.40
+coffee crew:kona:6.20
+coffee crew:medici:8.20
+coffee crew:mexican:10.10
+coffee crew:pocillo:3.90
+coffee crew:pocillo:9.00
+coffee crew:ristretto:5.50
+coffee hut:carajillo:3.70
+coffee hut:galao:5.30
+coffee hut:macchiato:5.20
+coffee hut:pocillo:1.10
+coffee hut:ristretto:7.90
+coffee lab:affogato:7.20
+coffee lab:au-lait:6.90
+coffee lab:doppio:5.70
+coffee lab:folgers:5.40
+coffee lab:mocha frappuccino:5.60
+coffee lab:palazzo:0.60
+coffee lab:pharisaer:6.70
+coffee lab:sumatran:4.80
+coffee lab:zorro:4.40
+coffee republic:cortado:2.60
+coffee shot:carajillo:7.20
+coffee shot:guillermo:9.20
+coffeeville:columbian:8.10
+coffeeville:gommosa:4.80
+coffeeville:medici:0.60
+coffeeville:sumatran:6.90
+cosy coffee:canned:1.40
+cosy coffee:macchiato:6.10
+cosy coffee:macchiato:6.70
+cosy coffee:marocchino:11.50
+cosy coffee:viennese:2.20
+country lane cafe:carajillo:3.40
+country lane cafe:decaffeinated:3.90
+country lane cafe:instant:6.20
+country lane cafe:irish:9.20
+country lane cafe:macchiato:11.40
+country lane cafe:sumatran:1.80
+dream bean cafe:indonesian:5.70
+dream bean cafe:medici:9.80
+dream bean cafe:melya:3.30
+dream bean cafe:mocha:8.60
+dream bean cafe:rudesheimer:8.30
+eastside cafe:espresso:11.90
+eastside cafe:shakerato:8.20
+eastside cafe:zorro:6.10
+edge cafe:indonesian:2.20
+edge cafe:latte:4.40
+edge cafe:latte:6.40
+edge cafe:medici:6.40
+edge cafe:mexican:2.80
+edge cafe:rudesheimer:5.00
+edge cafe:touba:6.20
+edge cafe:zorro:10.30
+eight acres cafe:breve:9.70
+eight acres cafe:canned:3.20
+eight acres cafe:cappuccino:1.80
+eight acres cafe:kona:4.90
+eight acres cafe:mocha:5.80
+eight acres cafe:palazzo:6.80
+eight acres cafe:peruvian:5.40
+eight acres cafe:zorro:6.00
+epic cafe:bombon:9.80
+epic cafe:columbian:5.10
+epic cafe:peruvian:6.20
+epic cafe:ristretto:4.30
+epic cafe:venezuelan:6.10
+espresso joe:canned:5.60
+espresso joe:irish:1.40
+espresso joe:medici:4.50
+espresso joe:mocha frappuccino:6.10
+espresso joe:pocillo:8.00
+espresso joe:shakerato:6.20
+espresso joe:zorro:5.60
+essence cafe:mocha frappuccino:9.80
+express-o coffee:botz:4.50
+express-o coffee:canned:5.00
+express-o coffee:doppio:5.50
+express-o coffee:guatemalan:5.50
+express-o coffee:guillermo:1.50
+express-o coffee:irish:10.00
+express-o coffee:palazzo:2.00
+express-o coffee:rudesheimer:4.80
+express-o coffee:sumatran:7.80
+flamenco:affogato:11.40
+flamenco:canned:7.00
+flamenco:galao:6.50
+flamenco:iced:8.70
+flamenco:irish:6.10
+flamenco:kona:1.60
+flamenco:peruvian:2.10
+flip cafe:au-lait:7.60
+flip cafe:espresso:6.90
+flip cafe:ethiopian:6.80
+flip cafe:folgers:0.70
+fresh:antoccino:7.60
+fresh:costa rican:8.50
+fresh:latte:2.00
+fresh:mocha frappuccino:4.20
+fresh:rudesheimer:9.80
+globe:palazzo:3.00
+hillside:canned:0.40
+hillside:decaffeinated:6.60
+hillside:doppio:10.10
+hillside:folgers:4.70
+hillside:marocchino:9.30
+hillside:mocha:3.10
+hillside:mocha:3.70
+honest coffeehouse:au-lait:3.50
+honest coffeehouse:doppio:4.70
+honest coffeehouse:doppio:6.00
+honest coffeehouse:espresso:6.30
+honest coffeehouse:galao:4.40
+honest coffeehouse:marocchino:7.50
+honest coffeehouse:palazzo:6.00
+honest coffeehouse:shakerato:7.10
+honest coffeehouse:shakerato:7.70
+inside cafe:sumatran:7.80
+interact coffeehouse:affogato:4.70
+interact coffeehouse:folgers:4.20
+interact coffeehouse:guillermo:6.20
+interact coffeehouse:indonesian:5.70
+interact coffeehouse:instant:9.90
+interact coffeehouse:peruvian:8.30
+interact coffeehouse:ristretto:4.70
+interact coffeehouse:venezuelan:6.50
+kaffeinate:cubano:5.60
+kaffeinate:peruvian:4.20
+kings cafe:botz:5.90
+kings cafe:columbian:7.30
+kings cafe:cubano:7.90
+kings cafe:indonesian:5.00
+le cafe:affogato:5.10
+le cafe:espresso:7.60
+le cafe:ethiopian:4.50
+le cafe:instant:6.30
+le cafe:marocchino:0.70
+myriad:au-lait:8.40
+myriad:botz:7.50
+myriad:canned:5.30
+myriad:carajillo:3.00
+myriad:gommosa:9.50
+myriad:latte:3.80
+myriad:mazagran:6.00
+myriad:palazzo:8.90
+myriad:rudesheimer:0.80
+old cafe:espresso:7.80
+old cafe:zorro:2.50
+parisian cafe:americano:0.30
+parisian cafe:carajillo:2.80
+parisian cafe:mazagran:4.70
+parisian cafe:mexican:5.30
+parisian cafe:nicaraguan:2.30
+parisian cafe:nicaraguan:9.70
+parisian cafe:sumatran:8.10
+parisian cafe:zorro:7.10
+potluck:medici:5.30
+providence cafe:columbian:2.60
+providence cafe:columbian:3.70
+providence cafe:doppio:8.20
+providence cafe:frappuccino:7.80
+providence cafe:irish:11.80
+riverside cafe:americano:5.90
+riverside cafe:breve:5.50
+riverside cafe:breve:6.00
+riverside cafe:cappuccino:2.90
+riverside cafe:indonesian:4.60
+riverside cafe:macchiato:6.90
+riverside cafe:marocchino:7.60
+riverside cafe:medici:4.90
+riverside cafe:touba:5.70
+robusta cafe:cortado:4.20
+royal coffee:botz:3.20
+royal coffee:breve:3.90
+royal coffee:cortado:2.70
+royal coffee:cortado:3.50
+royal coffee:decaffeinated:8.40
+royal coffee:espresso:0.10
+royal coffee:ristretto:5.90
+royal coffee:sumatran:0.60
+royal coffee:sumatran:2.20
+spectrum cafe:breve:4.30
+spectrum cafe:canned:4.60
+spectrum cafe:columbian:2.50
+spectrum cafe:costa rican:3.20
+spectrum cafe:doppio:5.60
+spectrum cafe:ethiopian:4.90
+spectrum cafe:melya:5.10
+spectrum cafe:venezuelan:6.90
+spoonful cafe:cortado:6.00
+spoonful cafe:marocchino:4.20
+star cafe and coffee:cubano:7.30
+steaming mugs:cappuccino:6.10
+steaming mugs:macchiato:6.10
+steaming mugs:melya:4.00
+steaming mugs:mocha:8.10
+steaming mugs:peruvian:6.20
+steaming mugs:peruvian:6.60
+steaming mugs:ristretto:11.60
+steaming mugs:shakerato:4.30
+stillwater cafe:guatemalan:5.00
+stillwater cafe:mocha frappuccino:8.00
+streets cafe:antoccino:5.70
+streets cafe:carajillo:0.70
+streets cafe:macchiato:4.70
+sugar cube cafe:carajillo:7.20
+sugar cube cafe:venezuelan:8.80
+sweet treats:carajillo:7.00
+sweet treats:iced:5.00
+sweet treats:instant:0.80
+sweet treats:instant:1.90
+sweet treats:mocha:6.90
+sweet treats:peruvian:9.60
+sweet treats:rudesheimer:6.60
+sweet treats:viennese:6.70
+sweetbrew:affogato:6.80
+sweetbrew:ethiopian:5.80
+sweetbrew:kona:4.00
+sweetbrew:latte:7.60
+sweetbrew:mazagran:7.60
+sweetbrew:mexican:5.80
+sweetbrew:rudesheimer:4.80
+temptations:canned:6.10
+temptations:rudesheimer:6.60
+the antique:affogato:8.70
+the antique:breve:10.20
+the antique:costa rican:4.10
+the antique:instant:6.40
+the antique:melya:9.00
+the antique:nicaraguan:7.20
+the antique:peruvian:4.90
+the antique:pharisaer:10.40
+the antique:pocillo:8.40
+the atrium:breve:4.30
+the atrium:breve:6.10
+the atrium:gommosa:4.90
+the barracks:doppio:8.20
+the barracks:galao:6.70
+the barracks:galao:8.60
+the barracks:guatemalan:3.00
+the barracks:marocchino:3.70
+the barracks:shakerato:2.00
+the barracks:viennese:7.20
+the boardwalk:au-lait:6.70
+the boardwalk:botz:7.70
+the boardwalk:carajillo:4.70
+the boardwalk:cortado:5.00
+the boardwalk:cubano:11.40
+the boardwalk:indonesian:11.20
+the boardwalk:kona:6.20
+the boardwalk:mocha frappuccino:6.10
+the brim:antoccino:5.90
+the brim:ethiopian:11.80
+the brim:ethiopian:5.20
+the brim:iced:10.30
+the busy bean:carajillo:7.20
+the busy bean:guatemalan:2.70
+the busy bean:medici:6.00
+the coffee grinder:breve:11.10
+the coffee grinder:cubano:5.60
+the coffee grinder:decaffeinated:4.50
+the coffee grinder:ethiopian:12.00
+the coffee grinder:folgers:3.20
+the coffee grinder:gommosa:7.30
+the coffee grinder:mexican:2.20
+the coffee grinder:mocha frappuccino:3.60
+the coffee grinder:touba:5.60
+the coffee lounge:americano:2.70
+the coffee lounge:bombon:9.30
+the coffee lounge:botz:0.80
+the coffee lounge:costa rican:2.00
+the coffee lounge:guatemalan:5.10
+the coffee lounge:indonesian:7.30
+the coffee lounge:irish:4.70
+the coffee lounge:pocillo:5.60
+the cs457 cafe:bombon:5.10
+the cs457 cafe:decaffeinated:3.90
+the cs457 cafe:marocchino:1.80
+the cs457 cafe:medici:8.20
+the cs457 cafe:mocha:4.20
+the cs457 cafe:nicaraguan:7.70
+the cs457 cafe:shakerato:2.60
+the cube:botz:4.70
+the cube:cortado:4.30
+the cube:instant:3.30
+the cube:mocha:5.10
+the daily grind:affogato:6.20
+the daily grind:ethiopian:7.20
+the daily grind:irish:2.60
+the daily grind:melya:9.90
+the hideout:antoccino:6.00
+the hideout:au-lait:8.60
+the hideout:espresso:12.60
+the hideout:instant:4.10
+the hideout:irish:6.90
+the hideout:marocchino:0.30
+the hideout:rudesheimer:5.30
+the hideout:touba:2.20
+the jam jar:breve:3.60
+the jam jar:doppio:5.50
+the jam jar:frappuccino:3.00
+the jam jar:guillermo:2.60
+the jam jar:marocchino:0.90
+the jam jar:mocha frappuccino:8.80
+the jam jar:viennese:10.90
+the lab:cubano:9.30
+the lab:folgers:2.90
+the lab:galao:5.50
+the lab:kona:3.00
+the lab:macchiato:2.50
+the lab:macchiato:7.50
+the little cafe:irish:3.50
+the parlour:botz:6.30
+the parlour:mexican:0.80
+the parlour:mocha:8.10
+the parlour:pocillo:7.20
+the village cafe:carajillo:8.00
+the village cafe:columbian:4.90
+the village cafe:costa rican:6.20
+the village cafe:guatemalan:6.50
+the village cafe:instant:6.50
+town & country coffee:carajillo:4.50
+town & country coffee:cortado:4.60
+tulips cafe:au-lait:5.70
+tulips cafe:bombon:3.00
+tulips cafe:ethiopian:6.60
+tulips cafe:guatemalan:7.90
+tulips cafe:kona:4.00
+tulips cafe:melya:5.90
+tulips cafe:pharisaer:5.00
+uncle joe:affogato:2.90
+uncle joe:bombon:3.60
+uncle joe:bombon:6.70
+uncle joe:columbian:7.00
+uncle joe:gommosa:7.80
+uncle joe:irish:8.40
+uncle joe:mocha frappuccino:4.10
+uncle joe:rudesheimer:7.40
+urban:americano:5.40
+urban:breve:3.40
+urban:irish:4.80
+urban:mocha frappuccino:6.30
+urban:shakerato:4.90
+waffle on:cappuccino:5.80
+waffle on:costa rican:2.40
+waffle on:medici:1.50
+waterfront:affogato:2.70
+waterfront:breve:4.40
+waterfront:cappuccino:5.90
+waterfront:cappuccino:6.40
+waterfront:ethiopian:8.20
+waterfront:guatemalan:4.30
+waterfront:guillermo:7.70
+waterfront:instant:5.50
+waterfront:sumatran:5.30
+yo yo coffee:carajillo:5.50
+yo yo coffee:costa rican:11.00
+yo yo coffee:costa rican:5.30
+yo yo coffee:costa rican:5.60
+yo yo coffee:doppio:9.40
+yo yo coffee:mazagran:2.30
+yo yo coffee:viennese:4.90
+yummies coffee shop:affogato:7.30
+yummies coffee shop:bombon:5.00
+yummies coffee shop:cappuccino:4.40
+yummies coffee shop:cappuccino:6.90
+yummies coffee shop:costa rican:3.10
+yummies coffee shop:decaffeinated:3.90
+yummies coffee shop:espresso:6.10
+yummies coffee shop:instant:6.20
+yummies coffee shop:sumatran:5.00
+zest:cappuccino:5.70
+zest:carajillo:8.20
+zest:espresso:9.10
+zest:indonesian:2.10
+zest:marocchino:4.70
+zest:pocillo:3.80
+zest:pocillo:8.50
+zone cafe:ethiopian:6.00
+zone cafe:frappuccino:5.10
+zone cafe:guatemalan:5.40
+zone cafe:kona:6.40
+zone cafe:mazagran:3.20
+zone cafe:mocha:5.80
+zone cafe:pocillo:6.50
+zone cafe:touba:11.30
