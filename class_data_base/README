@@ -1,0 +1,12 @@
+
+This is what I will do:
+
+  1. delete data from all your tables
+  2. \copy Students from '/u1/junk/cs457/Bonus/students2.csv' delimiter ':' csv;
+  3. select * from credits;
+  4. \copy Courses from '/u1/junk/cs457/Bonus/courses2.csv' delimiter ':' csv;
+  5. check the Courses table
+  6. \copy Grades from '/u1/junk/cs457/Bonus/grades.csv' delimiter ':' csv;
+  7. look at Credits, Probation, etc.
+  8. query: credit hours and average grade by course (coursequery)
+  9. query: credit hours and average grade by department (deptquery)
