@@ -7,7 +7,7 @@ credit_hours,hours_taken,gpt,honors_pts
 ```
 * Trigger will also check if gpa is below a 2.0 then will put the Student Id into a probation table
 * Also checks to see if a student enters a new grade is entered, checks to see if student already recieved credit for such class
-## Coffee Database `coffee_datase`
+## Coffee Database `coffee_database`
 * information on coffee drinkers, script was initially parsed from `drinks.txt` `serves.txt` and `Visits.txt` 
 * running app.js initiates a web server that lets you add to the coffee db
 * serves index.html with form that adds a new person
